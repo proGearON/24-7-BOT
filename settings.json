@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "guineapig.fi.freemcserver.net",
-    "port": 35784,
+    "ip": "horse.fi.freemcserver.net",
+    "port": 29594,
     "version": "1.20.1",
     "try-creative": false
   },
